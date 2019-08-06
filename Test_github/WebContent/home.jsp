@@ -8,6 +8,8 @@
 </head>
 <body>
 	<div>안녕하세요</div>
+	<div>hello</div>
+	<div>프로젝트</div>
 	<input type="button" value="확인" />
 </body>
 </html>
